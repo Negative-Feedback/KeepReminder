@@ -7,4 +7,4 @@ schedule library
 Selenium library
 Beautiful Soup
 
-Edits will have to be made on line 45 to get the right note
+Edits will have to be made on line 45 of Reminder_Funcs to get the right note
