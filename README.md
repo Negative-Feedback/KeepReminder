@@ -5,6 +5,6 @@ Requirements:
 - Twilio library
 - schedule library
 - Selenium library
-- Beautiful Soup
+- BeautifulSoup 4
 
 Edits will have to be made on line 45 of Reminder_Funcs to get the right note
